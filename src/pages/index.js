@@ -123,7 +123,7 @@ const App = () => {
 
         <Link href={"/paik/리춘시장"+setting.extention}>
             <a>
-                <MainBlock url='https://start.theborn.co.kr/vd/upload/prebrand/L_309987001614215750.png'/>
+                <MainBlock url='https://www.theborn.co.kr/wp-content/uploads/2021/11/%EB%8D%94%EB%B3%B8_%EA%B3%B5%ED%99%88_%EB%A6%AC%EC%B6%98%EC%8B%9C%EC%9E%A5.png'/>
             </a>
         </Link>
 
