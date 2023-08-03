@@ -95,7 +95,9 @@ const App = () => {
 
         <Link href={"/paik/롤링파스타"+setting.extention}>
             <a>
-                <MainBlock url='https://start.theborn.co.kr/vd/upload/prebrand/L_369436001614215664.png'/>
+            <MainBlock>
+                    <img className='imgSize' src={'/images/rolling.jpeg'} alt="profile"/>
+            </MainBlock>
             </a>
         </Link>
 
@@ -129,7 +131,9 @@ const App = () => {
 
         <Link href={"/paik/역전우동0410"+setting.extention}>
             <a>
-                <MainBlock url='https://start.theborn.co.kr/vd/upload/prebrand/L_585795001616033648.png'/>
+                <MainBlock>
+                    <img className='imgSize' src={'/images/udon.png'} alt="profile"/>
+                </MainBlock>
             </a>
         </Link>
 
